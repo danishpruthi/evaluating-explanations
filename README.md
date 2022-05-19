@@ -9,4 +9,4 @@ This is the code-repository corresponding the following paper:
 > Transactions of the Association for Computational Linguistics (TACL, 2021)
 
 
-**Update**: If you are looking to evaluate explanations using our metric, you can use the [**this repository**](https://github.com/CoderPat/learning-scaffold) instead as this: (1) computes our proposed simulatability metric _and also_ generates explanations that are optimized according to our metric, and (2) is a modern reimplementation of our work, and (iii) is overall better structured and maintained. 
+**Update**: If you are looking to evaluate explanations using our metric, you can use [**this repository**](https://github.com/CoderPat/learning-scaffold) instead as this: (1) computes our proposed simulatability metric _and also_ generates explanations that are optimized according to our metric, and (2) is a modern reimplementation of our work, and (iii) is overall better structured and maintained. 
